@@ -1,0 +1,13 @@
+body{
+    color: Maroon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    font-size: 12px;
+}
+p.center{
+    text-align:center ;
+}
+p.right{
+    text-align: right;
+}
